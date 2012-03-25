@@ -1,0 +1,23 @@
+* {
+   margin:0;
+   padding:0;
+}
+body{
+	font-family:Helvetica;
+}
+ #outer-container{
+ 	margin:0 auto;
+ 	width:960px;
+ }
+
+ .play-btn{
+	 color:white;
+	 background-color:#4EA626;
+	 padding:10px;
+	 margin-top:10px;
+	 width:100px;
+	 float:left;
+	 margin-left:20px;
+	 text-align:center;
+	 cursor: pointer;
+}
