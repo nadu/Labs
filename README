@@ -1,5 +1,9 @@
-This is the README for my labs project. Lets try once more. Ok so Pull worked. 
+This is the README for my labs optics project. Lets try once more. Ok so Pull worked. 
 Lets try the other way. Push seems to work
-Lets try fetch. Fetch was not working. Now it works if you do git fetch and git merge origin/master. 
-Trying the other way then. This worked so - the idea is to use git fetch [alias] and then do git merge [alias]/[branch name]
-ashdahsdkahsdkh
+
+Lets try fetch. Fetch was not working. 
+Now it works if you do git fetch and git merge origin/master. 
+Trying the other way then. This worked so - the idea is to use 
+git fetch [alias] and then do git merge [alias]/[branch name]
+
+
