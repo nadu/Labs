@@ -9,7 +9,8 @@ Naduism.optics.point = (function(){
 	return {
 		init:init
 	};
-}())
+}());
+
 Naduism.optics.object = (function(){
 	// coordinates of the object on the axis
 	// and height of the object
